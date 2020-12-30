@@ -1,4 +1,4 @@
 Postcode,Borough,Neighbourhood,Latitude,Longitude
-"M1B,Scarborough,""Rouge-Malvern"",43.806686299999996,-79.19435340000001"
-"M1C,Scarborough,""Highland Creek-Rouge Hill-Port Union"",43.7845351,-79.16049709999999"
-"M1E,Scarborough,""Guildwood-Morningside-West Hill"",43.7635726,-79.1887115"
+"M1B,Scarborough,"Rouge-Malvern",43.806686299999996,-79.19435340000001"
+"M1C,Scarborough,"Highland Creek-Rouge Hill-Port Union",43.7845351,-79.16049709999999"
+"M1E,Scarborough,"Guildwood-Morningside-West Hill",43.7635726,-79.1887115"
